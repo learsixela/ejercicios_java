@@ -30,4 +30,12 @@ public class MiObjeto {
 	protected void funcionDos() {
 		System.out.println("protected .-..");
 	}
+	public void otraFuncion() {
+		// TODO Auto-generated method stub
+		
+	}
+	public Integer funcionInteger() {
+		// TODO Auto-generated method stub
+		return null;
+	}
 }
